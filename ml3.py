@@ -11,9 +11,6 @@ r=x.cov(y)/(x.std()*y.std())
 
 print("Karl Pearson's Correlation Coefficient is: ",r)
 
---------------------------------------------------------------------------------------------------------------------
 
-OUTPUT:
-Karl Pearson's Correlation Coefficient is:  0.14499815458068518
 
 
